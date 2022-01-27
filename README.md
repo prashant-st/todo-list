@@ -52,7 +52,7 @@ Assignment to understand Web Technologies
 - Use chrome developer tools to see how your site would look on a mobile device.
 - Improve JavaScript, make sure your code is modular.
 
-##Step 5
+##Step 6
 
 ###ToDo List Project: Visual Enhacement & Details
 
@@ -65,7 +65,7 @@ Assignment to understand Web Technologies
 - he would have a icon at the end to indicate that the due date is approcahing
 
 
-##Step 6
+##Step 7
 
 ###ToDo List Project: Pure CSS 
 
@@ -73,7 +73,7 @@ Assignment to understand Web Technologies
 - Use CSS Media Queries to enrure that the site looks good on mobile.
 - Explore CSS Animation, when task is checked (completed) fades smoothly to become grey
 
-##Step 6
+##Step 8
 
 ###ToDo List Project: Using JSON & Web Local Storage
 
@@ -88,7 +88,7 @@ Assignment to understand Web Technologies
 - Get the JS Object from JSON string
 - Restore the entire list from the JS Object.
 
-##Step 6
+##Step 9
 
 ###ToDo List Project: Host to Web
 
@@ -98,7 +98,7 @@ Assignment to understand Web Technologies
 - Read about HTTP protocol
 - Understand REST API, GET and POST requests
 
-##Step 7
+##Step 10
 
 ###ToDo List Project: User Accuonts & Use Firebase Realtime Database
 
@@ -108,7 +108,7 @@ Assignment to understand Web Technologies
 - Use it to save list for that user
 - When ever user opens the site, they should be able to see their ToDO list pro
 
-##Step 8
+##Step 11
 
 ###ToDo List Project: Caching
 
@@ -117,7 +117,7 @@ Assignment to understand Web Technologies
 - When internet come back, these should be save to Firebase database.
 - User shuold be informed using "banners" about these connectivity changes.
 
-##Step 9
+##Step 12
 
 ###ToDo List Project: Node JS
 
@@ -127,7 +127,7 @@ Assignment to understand Web Technologies
 - How package.json file works
 - Create a simple calculator console application using NodeJS
 
-##Step 10
+##Step 13
 
 ###ToDo List Project: Web Application using Node
 
@@ -136,7 +136,7 @@ Assignment to understand Web Technologies
 - Serve the ToDo app created above using Node instead of Firebase hosting.
 - List would only be saved locally (local storage in this case)
 
-##Step 11
+##Step 14
 
 ###ToDo List Project: TODO App on Node, Mogo DB
 
@@ -145,7 +145,7 @@ Learn Mongo DB
 - Create a REST API for ToDo Application
 - Full fuctionality of the ToDo application should be working with Mongo + Node.js for a single user
 
-##Step 12
+##Step 15
 
 ###ToDo List Project: User Management
 
